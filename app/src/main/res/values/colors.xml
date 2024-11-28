@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#00E676</color>
+    <color name="colorPrimaryDark">#00C853</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColorSecondary">#BDBDBD</color>
+    <color name="backgroundColor">#131313</color>
+    <color name="graphColor1">#1E88E5</color>
+    <color name="graphColor2">#00BFA5</color>
+    <color name="graphColor3">#F4511E</color>
+    <color name="graphColor4">#FFB300</color>
+    <color name="graphColor5">#7CB342</color>
+    <color name="graphColor6">#AB47BC</color>
+    <color name="apptheme">#0074D9</color>
+</resources>
